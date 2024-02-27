@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy <h2>Nelson Parra</h2> 👋
 
 ## Sobre Mí
 Soy un desarrollador de software con una pasión por aprender y construir cosas que importan. Con experiencia en Python, JavaScript, y una sólida base en ciencias de la computación, me esfuerzo por crear soluciones que sean no solo efectivas sino también innovadoras.
