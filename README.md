@@ -20,6 +20,14 @@ SEO strategist and Full Stack developer with expertise in digital marketing, dat
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+![Meta Business Suite](https://img.shields.io/badge/-Meta%20Business%20Suite-3b5998?style=flat&logo=meta&logoColor=white)
+![Ads Manager](https://img.shields.io/badge/-Ads%20Manager-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=SEO&logoColor=white)
+![SEM](https://img.shields.io/badge/-SEM-FF6E00?style=flat&logo=google&logoColor=white)
+
 
 
 ## Mis Proyectos
