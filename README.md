@@ -1,7 +1,7 @@
 # Hola, soy Nelson Parra 👋
 
 ## Sobre Mí
-Soy un desarrollador de software con una pasión por aprender y construir cosas que importan. Con experiencia en Python, JavaScript, y una sólida base en ciencias de la computación, me esfuerzo por crear soluciones que sean no solo efectivas sino también innovadoras.
+SEO strategist and Full Stack developer with expertise in digital marketing, data analysis with Power BI, and web development in WordPress and Django. Specialized in optimizing online visibility and user experience, complemented by strong knowledge in Google Analytics, Google Ads, and technical SEO. With experience in administrative analysis and project management, I bring a comprehensive vision to drive effective digital strategies.
 
 - 🔭 Actualmente estoy trabajando en **proyectos personales** que exploran el uso de **IA** para mejorar la accesibilidad en la web.
 - 🌱 Estoy aprendiendo más sobre **desarrollo web moderno** y **tecnologías de inteligencia artificial**.
