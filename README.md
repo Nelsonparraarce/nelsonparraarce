@@ -37,14 +37,6 @@ SEO strategist and Full Stack developer with expertise in digital marketing, dat
 
 
 
-## Mis Proyectos
-
-
----
-
-⭐️ Desde [TuNombre](https://github.com/TuNombre)
-
-
 <!--
 **Nelsonparraarce/nelsonparraarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
