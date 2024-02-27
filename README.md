@@ -34,6 +34,7 @@ SEO strategist and Full Stack developer with expertise in digital marketing, dat
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000000?style=flat&logo=DaVinci%20Resolve&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-0084FF?style=flat&logo=openai&logoColor=white)
 
 
 
