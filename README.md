@@ -1,4 +1,4 @@
-#<header> <h1>Nelson Felipe Parra Arce - Perfil Profesional </h1> </header>
+#<header> <h2>Nelson Felipe Parra Arce - Perfil Profesional </h2> </header>
 
 </body>Acerca de Mí
 Ingeniero en Administración de Empresas y desarrollador Full Stack, con una sólida base en gestión de recursos humanos, análisis financiero, desarrollo de software, y marketing digital. Apasionado por el análisis de datos y la optimización de procesos empresariales a través de la tecnología.
