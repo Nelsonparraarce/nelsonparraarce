@@ -1,23 +1,20 @@
-# Hola, soy Nelson Parra 👋
+# Hi, I am Nelson Parra 👋
 
-## Sobre Mí
+## About me
 SEO strategist and Full Stack developer with expertise in digital marketing, data analysis with Power BI, and web development in WordPress and Django. Specialized in optimizing online visibility and user experience, complemented by strong knowledge in Google Analytics, Google Ads, and technical SEO. With experience in administrative analysis and project management, I bring a comprehensive vision to drive effective digital strategies.
 
-- 🔭 Actualmente estoy trabajando en **proyectos personales** que exploran el uso de **IA** para mejorar la accesibilidad en la web.
-- 🌱 Estoy aprendiendo más sobre **desarrollo web moderno** y **tecnologías de inteligencia artificial**.
-- 👯 Busco colaborar en **proyectos de código abierto** que tengan un impacto positivo en la comunidad.
-- 💬 Pregúntame sobre **Python**, **JavaScript**, y **desarrollo de software**.
-- 📫 Cómo contactarme: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 😄 Pronombres: él/ello
-- ⚡ Curiosidad: Soy un entusiasta del aprendizaje automático y me encanta aplicar conocimientos de IA en proyectos creativos.
 
 ## Tecnologías y Herramientas
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![Yoast SEO](https://img.shields.io/badge/-Yoast%20SEO-464646?style=flat&logo=yoast&logoColor=white)
 
 ## Mis Proyectos
 - **Proyecto de IA para Accesibilidad Web**: Un proyecto que utiliza IA para mejorar la navegación web para personas con discapacidad.
