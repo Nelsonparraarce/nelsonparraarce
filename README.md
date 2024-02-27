@@ -27,13 +27,12 @@ SEO strategist and Full Stack developer with expertise in digital marketing, dat
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=SEO&logoColor=white)
 ![SEM](https://img.shields.io/badge/-SEM-FF6E00?style=flat&logo=google&logoColor=white)
-![Power Query](https://img.shields.io/badge/-Power%20Query-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
-![Meta Business Suite](https://img.shields.io/badge/-Meta%20Business%20Suite-3b5998?style=flat&logo=meta&logoColor=white)
-![Ads Manager](https://img.shields.io/badge/-Ads%20Manager-0077B5?style=flat&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=SEO&logoColor=white)
-![SEM](https://img.shields.io/badge/-SEM-FF6E00?style=flat&logo=google&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-5849BE?style=flat&logo=scrum&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 
 
