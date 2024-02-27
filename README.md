@@ -4,7 +4,7 @@
 SEO strategist and Full Stack developer with expertise in digital marketing, data analysis with Power BI, and web development in WordPress and Django. Specialized in optimizing online visibility and user experience, complemented by strong knowledge in Google Analytics, Google Ads, and technical SEO. With experience in administrative analysis and project management, I bring a comprehensive vision to drive effective digital strategies.
 
 
-## Tecnologías y Herramientas
+## Technologies and Tools
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
