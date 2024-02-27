@@ -1,60 +1,32 @@
-**<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Título del Proyecto</title>
-    <!-- Puedes agregar estilos CSS aquí o en un archivo externo -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-        }
-        .badge {
-            margin-right: 5px;
-        }
-        #indice a {
-            display: block;
-            margin: 10px 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Título e imagen de portada -->
-        <h1>Título del Proyecto</h1>
-        <img src="URL_DE_LA_IMAGEN_DE_PORTADA" alt="Imagen de Portada">
+# Hola, soy [Tu Nombre] 👋
 
-        <!-- Insignias -->
-        <div>
-            <img src="URL_DE_LA_INSIGNIA_1" alt="Insignia 1" class="badge">
-            <img src="URL_DE_LA_INSIGNIA_2" alt="Insignia 2" class="badge">
-            <!-- Añade más insignias según sea necesario -->
-        </div>
+## Sobre Mí
+Soy un desarrollador de software con una pasión por aprender y construir cosas que importan. Con experiencia en Python, JavaScript, y una sólida base en ciencias de la computación, me esfuerzo por crear soluciones que sean no solo efectivas sino también innovadoras.
 
-        <!-- Índice -->
-        <div id="indice">
-            <h2>Índice</h2>
-            <a href="#seccion1">Sección 1</a>
-            <a href="#seccion2">Sección 2</a>
-            <!-- Añade más enlaces al índice según sea necesario -->
-        </div>
+- 🔭 Actualmente estoy trabajando en **proyectos personales** que exploran el uso de **IA** para mejorar la accesibilidad en la web.
+- 🌱 Estoy aprendiendo más sobre **desarrollo web moderno** y **tecnologías de inteligencia artificial**.
+- 👯 Busco colaborar en **proyectos de código abierto** que tengan un impacto positivo en la comunidad.
+- 💬 Pregúntame sobre **Python**, **JavaScript**, y **desarrollo de software**.
+- 📫 Cómo contactarme: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- 😄 Pronombres: él/ello
+- ⚡ Curiosidad: Soy un entusiasta del aprendizaje automático y me encanta aplicar conocimientos de IA en proyectos creativos.
 
-        <!-- Contenido -->
-        <div>
-            <h2 id="seccion1">Sección 1</h2>
-            <p>Contenido de la Sección 1...</p>
-            
-            <h2 id="seccion2">Sección 2</h2>
-            <p>Contenido de la Sección 2...</p>
+## Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-            <!-- Añade más secciones según sea necesario -->
-        </div>
-    </div>
-</body>
-</html>**
+## Mis Proyectos
+- **Proyecto de IA para Accesibilidad Web**: Un proyecto que utiliza IA para mejorar la navegación web para personas con discapacidad.
+- **Aplicación de Notas en React**: Una aplicación dinámica para tomar notas desarrollada con React.
+
+---
+
+⭐️ Desde [TuNombre](https://github.com/TuNombre)
+
 
 <!--
 **Nelsonparraarce/nelsonparraarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
