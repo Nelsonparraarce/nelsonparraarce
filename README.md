@@ -15,10 +15,15 @@ SEO strategist and Full Stack developer with expertise in digital marketing, dat
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 ![Yoast SEO](https://img.shields.io/badge/-Yoast%20SEO-464646?style=flat&logo=yoast&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Search Console](https://img.shields.io/badge/-Search%20Console-4285F4?style=flat&logo=search-console&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 ## Mis Proyectos
-- **Proyecto de IA para Accesibilidad Web**: Un proyecto que utiliza IA para mejorar la navegación web para personas con discapacidad.
-- **Aplicación de Notas en React**: Una aplicación dinámica para tomar notas desarrollada con React.
+
 
 ---
 
