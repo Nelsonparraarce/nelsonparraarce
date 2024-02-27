@@ -34,12 +34,13 @@ SEO strategist and Full Stack developer with expertise in digital marketing, dat
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 
-!🔭 Currently working on SEO optimization and web development in WordPress.
-!🌱 Learning new data analysis techniques and SEO strategies.
-!👯 Seeking collaboration on web development, SEO, and data analysis projects.
-!🤔 Needing assistance with implementing advanced SEO strategies and interpreting analytical data.
-!💬 Ask me about SEO, digital marketing, web development, or data analysis.
-!📫 Contact me via email: n.parra.arce@gmail.com.
-!😄 Pronouns: he/him
-!⚡ Fun fact: I love experimenting with new technologies 
+- 🔭 Currently working on SEO optimization and web development in WordPress.
+- 🌱 Learning new data analysis techniques and SEO strategies.
+- 👯 Seeking collaboration on web development, SEO, and data analysis projects.
+- 🤔 Needing assistance with implementing advanced SEO strategies and interpreting analytical data.
+- 💬 Ask me about SEO, digital marketing, web development, or data analysis.
+- 📫 Contact me via email: n.parra.arce@gmail.com.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love experimenting with new technologies and learning languages.
+
 
